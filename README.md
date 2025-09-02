@@ -1,1 +1,1 @@
-# CS771-Project-Physical-Unclonable-Function-PUF-
+# CS771-Project-Physical-Unclonable-Function-(PUF)
